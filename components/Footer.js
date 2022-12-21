@@ -18,7 +18,7 @@ function Footer() {
     </div>
   </div> 
   <div>
-    <p>Copyright © 2022 - All right reserved by ACME Industries Ltd</p>
+    <p>Copyright © 2022 - ShuvaChakraborty</p>
   </div>
 </footer>
 
